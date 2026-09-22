@@ -4,7 +4,7 @@ class Book {
     int bookId;
     String title;
     String author;
-    double price;
+    double price;   
 
     public Book(int bookId, String title, String author, double price) {
         this.bookId = bookId;
